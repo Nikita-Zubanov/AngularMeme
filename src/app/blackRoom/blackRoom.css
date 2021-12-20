@@ -1,0 +1,17 @@
+.screen {
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  position: absolute;
+}
+
+.help {
+  text-align: center;
+}
+.help a {
+  color: #2D2D2D;
+  position: absolute;
+  top: 50%;
+  text-decoration: none;
+}
