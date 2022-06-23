@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
     selector: 'repeat-button',
     template: `
         <div class="repeat-button-class fadeIn">
-            <span><a href="/questionroom"></a></span>
+            <span><a href="questionroom"></a></span>
         </div>`,
     styleUrls: ["./repeatButton.css", "../question/question.css"]
 })
